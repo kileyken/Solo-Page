@@ -1,0 +1,2 @@
+# Solo-Page
+Coding basics
