@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    height: 75px;
+    background-color: #58D968;
+    font-family: 'Merriweather', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.picture-container {
+    display: flex;
+    justify-content: center;
+}
+
+.picture-grid {
+    padding: 10px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.picture-grid-item {
+    margin-top: 10px;
+    display: flex;
+}
+
+.footer {
+    color: lightgreen;
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
